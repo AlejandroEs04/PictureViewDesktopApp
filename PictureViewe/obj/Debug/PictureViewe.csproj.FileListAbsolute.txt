@@ -1,0 +1,10 @@
+C:\Users\2004e\Desktop\Development\Web Development\PictureViewe\PictureViewe\bin\Debug\PictureViewe.exe.config
+C:\Users\2004e\Desktop\Development\Web Development\PictureViewe\PictureViewe\bin\Debug\PictureViewe.exe
+C:\Users\2004e\Desktop\Development\Web Development\PictureViewe\PictureViewe\bin\Debug\PictureViewe.pdb
+C:\Users\2004e\Desktop\Development\Web Development\PictureViewe\PictureViewe\obj\Debug\PictureViewe.csproj.AssemblyReference.cache
+C:\Users\2004e\Desktop\Development\Web Development\PictureViewe\PictureViewe\obj\Debug\PictureViewe.Form1.resources
+C:\Users\2004e\Desktop\Development\Web Development\PictureViewe\PictureViewe\obj\Debug\PictureViewe.Properties.Resources.resources
+C:\Users\2004e\Desktop\Development\Web Development\PictureViewe\PictureViewe\obj\Debug\PictureViewe.csproj.GenerateResource.cache
+C:\Users\2004e\Desktop\Development\Web Development\PictureViewe\PictureViewe\obj\Debug\PictureViewe.csproj.CoreCompileInputs.cache
+C:\Users\2004e\Desktop\Development\Web Development\PictureViewe\PictureViewe\obj\Debug\PictureViewe.exe
+C:\Users\2004e\Desktop\Development\Web Development\PictureViewe\PictureViewe\obj\Debug\PictureViewe.pdb
